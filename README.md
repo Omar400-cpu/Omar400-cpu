@@ -14,9 +14,10 @@ Computer Science Graduate focused on building real-world AI applications and int
 
 ## Featured Projects
 - ModuVision
-- Face Recognition System
-- Smart Parking Detection
-- Crowd Analysis
+- E7gzli
+- Mobile APP
+- Medira
+- 
 
 ## Connect With Me
 - LinkedIn: linkedin.com/in/omar-ehab
