@@ -28,4 +28,4 @@ AI-powered surveillance platform featuring face recognition, crowd analysis, sma
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Ehab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-ehab)
+[![LinkedIn](https://linkedin.com/in/omar-ehab)
