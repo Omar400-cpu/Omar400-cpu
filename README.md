@@ -19,7 +19,7 @@ Computer Science Graduate focused on building real-world AI applications and int
 ## Featured Projects
 
 ### 🚀 ModuVision (Graduation Project)
-AI-powered surveillance platform featuring face recognition, crowd analysis, smart attendance, parking management, and weapon detection.
+AI-powered surveillance platform featuring face recognition, crowd analysis, smart attendance, parking management, shelf gap detection, fire and smoke detection and weapon detection.
 
 - 🤖 Designing Intelligent Agent
 - 📱 Mobile APP
