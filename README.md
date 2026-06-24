@@ -10,14 +10,17 @@ Computer Science Graduate focused on building real-world AI applications and int
 - TensorFlow
 - OpenCV
 - FastAPI
-- Docker
+- CUDA
+- LLMs
 
 ## Featured Projects
-- ModuVision
-- E7gzli
+
+### ModuVision (Graduation Project)
+AI-powered surveillance platform featuring face recognition, crowd analysis, smart attendance, parking management, and weapon detection.
+- Designing Intelligent Agent
 - Mobile APP
 - Medira
-- 
+- E7gzli
 
 ## Connect With Me
 - LinkedIn: linkedin.com/in/omar-ehab
