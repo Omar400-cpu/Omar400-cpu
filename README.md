@@ -52,10 +52,8 @@ AI-powered surveillance platform featuring face recognition, crowd analysis, sma
 - 🏥 Medira
 - 🎫 E7gzli
 
-```md
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Ehab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ehab-189875188)
 
-[![Email](https://img.shields.io/badge/Email-omardarhous123456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omardarhous123456@gmail.com)
-```
+[![Email](https://img.shields.io/badge/Email-omardarhous123456%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&labelColor=555555&logoColor=white)](mailto:omardarhous123456@gmail.com)
